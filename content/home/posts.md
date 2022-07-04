@@ -4,15 +4,15 @@
 widget: pages
 
 # This file represents a page section.
-headless: true
+headless: false
 
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
-subtitle:
+title: Blog Posts
+subtitle: ''
 
 content:
   # Filter on criteria
