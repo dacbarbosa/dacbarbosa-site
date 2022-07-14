@@ -7,7 +7,6 @@
 
 appearance:
   theme_day: dacbarbosa_theme
-  theme_night:
   font: dacbarbosa_theme
   font_size: L
 
