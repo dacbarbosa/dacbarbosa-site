@@ -17,6 +17,8 @@ interests:
 organizations:
 - name: University of Oxford
   url: https://www.economics.ox.ac.uk/
+- name: Nuffield College
+  url: https://www.nuffield.ox.ac.uk/
 role: MPhil/DPhil Economics Student
 social:
 - icon: envelope
