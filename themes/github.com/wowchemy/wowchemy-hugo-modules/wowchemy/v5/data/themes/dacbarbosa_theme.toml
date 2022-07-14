@@ -1,19 +1,19 @@
 # Theme metadata
-name = "Oxford Theme"
+name = "oxford_theme"
 
 [light]
   # Primary
-  primary = "#1565c0"
+  primary = "#002147"
 
   # Menu
-  menu_primary = "#fff"
-  menu_text = "#34495e"
-  menu_text_active = "#2962ff"
-  menu_title = "#2b2b2b"
+  menu_primary = "#F7F7F7"
+  menu_text = "#002147"
+  menu_text_active = "#5ba7ff"
+  menu_title = "#002147"
 
   # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(247, 247, 247)"
+  home_section_odd = "#F7F7F7"
+  home_section_even = "#F7F7F7"
 
 [dark]
   # Primary

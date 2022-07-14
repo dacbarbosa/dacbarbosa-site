@@ -1,11 +1,11 @@
 # Font style metadata
-name = "Oxford Theme"
+name = "oxford_theme"
 
 # Optional Google font URL
-google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
+google_fonts = "family=Roboto+Slab:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&family=PT+Serif"
 
 # Font families
-heading_font = "Montserrat"
-body_font = "Roboto"
-nav_font = "Roboto"
-mono_font = "Roboto Mono"
+heading_font = "PT Serif"
+body_font = "PT Serif"
+nav_font = "Roboto Slab"
+mono_font = "Roboto Slab"
