@@ -10,10 +10,11 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 slides: example
-summary: An example of using the in-built project page.
+summary: Undergraduate - Instructor Maína Celidônio
 tags:
 - Deep Learning
-title: Course 1
+title: Political Economy - 2020.1-2020.2 (PUC-Rio)
+subtitle: Undergraduate
 url_code: ""
 url_pdf: ""
 url_slides: ""

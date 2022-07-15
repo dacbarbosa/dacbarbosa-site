@@ -1,5 +1,5 @@
 ---
-bio: My research interests include XX
+bio: Department of Economics [University of Oxford](https://www.economics.ox.ac.uk/) and [Nuffield College](https://www.nuffield.ox.ac.uk/)
 education:
   courses:
   - course: MPhil in Economics
@@ -37,6 +37,10 @@ superuser: true
 title: Daniel AC Barbosa
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an MPhil/DPhil student at the [Department of Economics, University of Oxford](https://www.economics.ox.ac.uk/) and a member of [Nuffield College](https://www.nuffield.ox.ac.uk/). Previously to joining Oxford, I worked as a Pre-Doctoral Researcher under the supervision of [Prof. Thiemo Fetzer](http://www.trfetzer.com/) and [Prof. Pedro CL Souza](https://www.pedroclsouza.com/).
+
+I have worked on topics in conflict and crime, with a focus on interventions that change the incentive structure around hidden action issues in policing activity and criminal reporting.
+
+You can contact me at: dan.ac.barbosa@gmail.com
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_daniel_ac_barbosa.pdf" "newtab" >}}CV{{< /staticref >}}.

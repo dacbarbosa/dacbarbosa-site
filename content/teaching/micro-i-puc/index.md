@@ -10,10 +10,11 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 slides: example
-summary: An example of using the in-built project page.
+summary: Undergraduate - Instructor Juliano Assuncao
 tags:
 - Deep Learning
-title: Course 2
+title: Microeconomic Theory I - 2017.2 (PUC-Rio)
+subtitle: Undergraduate
 url_code: ""
 url_pdf: ""
 url_slides: ""
