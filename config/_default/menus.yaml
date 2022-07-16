@@ -18,9 +18,9 @@ main:
   #   url: '#projects'
   #   parent: 'Research'
   #   weight: 3
-  - name: Teaching
-    url: '#teaching'
-    weight: 30
+  # - name: Teaching
+  #   url: '#teaching'
+  #   weight: 30
   - name: Others
     url: ''
     weight: 40
