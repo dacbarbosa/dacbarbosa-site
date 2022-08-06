@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: dan.ac.barbosa@gmail.com
+  email: daniel.barbosa@economics.ox.ac.uk
   # phone: 888 888 88 88
   # address:
   #   street: Nuffield College, New Road
