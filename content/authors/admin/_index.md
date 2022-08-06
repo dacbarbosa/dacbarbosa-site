@@ -8,7 +8,7 @@ education:
   - course: Bachelor of Science in Economics 
     institution: Pontifícia Universidade Católica do Rio de Janeiro
     year: 2020
-email: "dan.ac.barbosa@gmail.com"
+email: "daniel.barbosa@economics.ox.ac.uk"
 highlight_name: true
 interests:
 - Industrial Organisation
@@ -41,6 +41,6 @@ I am an MPhil/DPhil student at the [Department of Economics, University of Oxfor
 
 I have worked on topics in conflict and crime, with a focus on interventions that change the incentive structure around hidden action issues in policing activity and criminal reporting.
 
-You can contact me at: dan.ac.barbosa@gmail.com
+You can contact me at: daniel.barbosa@economics.ox.ac.uk
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_daniel_ac_barbosa.pdf" "newtab" >}}CV{{< /staticref >}}.

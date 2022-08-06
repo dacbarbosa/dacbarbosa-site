@@ -16,22 +16,22 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
 
   # Contact details (edit or remove options as required)
   email: dan.ac.barbosa@gmail.com
   # phone: 888 888 88 88
-  address:
-    street: Nuffield College, New Road
-    city: Oxford
-    country: United Kingdom
-    country_code: UK
+  # address:
+  #   street: Nuffield College, New Road
+  #   city: Oxford
+  #   country: United Kingdom
+  #   country_code: UK
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
